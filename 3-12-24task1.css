@@ -1,0 +1,37 @@
+.a {
+    background-color: lightgoldenrodyellow;
+}
+
+.b {
+    background-color: lightcoral;
+
+}
+
+.c {
+    background-color: lightgreen;
+}
+
+.d {
+    background-color: lightpink;
+}
+
+.a,
+.b,
+.c,
+.d {
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    vertical-align: top;
+
+}
+
+.a,
+.b,
+.c {
+    width: 200px;
+    display: inline-block;
+}
